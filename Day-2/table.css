@@ -1,0 +1,65 @@
+body {
+    background-color: #acdff5;
+    align-items: center;
+        justify-content: center;
+}
+#timetable {    
+    border: #05050c solid ;
+}
+.header {
+    background-color: #eeabab;
+    text-align: center;
+}
+.cell {
+    background-color: #d1d1ff;
+    text-align: center;
+    text-transform: uppercase;
+}
+.c{
+    background-color: #f4c5c8;
+}
+.html {
+    background-color: #f9e7d4;
+}
+.css {
+    background-color: #d7cdb7;
+}
+.java {
+    background-color: #b0b0b0;
+}
+.webdev {
+    background-color: #909090;
+}
+.os {
+    background-color: #707070;
+}
+.hindi {
+    background-color: #f5cdcd;
+}
+.django {
+    background-color: #ffc1fd;
+}
+.english {
+    background-color: #afb3d2;
+}
+.go {
+    background-color: #cef4b4;
+}
+.networks {
+    background-color: #edd1a5;
+}
+.datascience {
+    background-color: #ffa3c0;
+}
+.python {
+    background-color: #f1baba;
+}
+#Django {
+    background-color: #ffc1fd;
+}
+#hindi {
+    background-color: #fccbdb;
+}
+#break {
+    background-color: #d5d5fc;
+}

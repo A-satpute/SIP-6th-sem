@@ -1,0 +1,29 @@
+button:hover {
+    background-color: red;
+    color: white;
+}
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(220, 85, 85);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 2s;
+}
+.box:hover {
+    transform: scale(1.1);
+    background-color: lightblue;
+    margin-top: 20px;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box3d{
+    transsition: 2s;
+}
+.box3d:hover{
+    transform: rotateY(180deg);
+}
